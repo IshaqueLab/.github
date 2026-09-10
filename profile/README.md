@@ -22,21 +22,22 @@ We study biological heterogeneity in disease using computational approaches appl
 - **Spatially resolved transcriptomics**: segmentation-free analysis, cell-type mapping, spatially-aware clustering, quality control and benchmarking of imaging-based SRT.
 - **Single-cell and multi-omics integration**: linking molecular layers to resolve tumour and microenvironment heterogeneity.
 - **AI for histology**: predicting molecular readouts and immune states from H&E images using matched spatial transcriptomics.
-- **Community building and engagement**: we are actively involved in ELIXIR, ELIXIR-Germany and coordinate the SpaceHack hackathon series.
+- **Community building and engagement**: we are actively involved in [ELIXIR](https://elixir-europe.org/), [ELIXIR-Germany](https://elixir-europe.org/about-us/who-we-are/nodes/germany)/[de.NBI](https://www.denbi.de/) and coordinate the [SpaceHack](https://spatialhackathon.github.io/) hackathon series.
 
 We work closely with experimental and clinical collaborators who generate large-scale, high-dimensional datasets, and we build open-source tools so others can too.
 
 ## Software
 
-| Tool | Description | Publication |
-|---|---|---|
-| **SSAM** | Segmentation-free cell-type mapping for imaging-based spatial transcriptomics | [link] |
-| **SSAM-lite** | Segmentation-free cell-type mapping for imaging-based spatial transcriptomics | [link] |
-| **sainsc** | Segmentation-free spatial analysis at scale | [link] |
-| **SpatialLeiden** | Spatially-aware clustering via multiplex modularity optimisation | Genome Biology 2025 |
-| **MULTI spaete** | Spatially-aware clustering via multiplex modularity optimisation | Genome Biology 2025 |
-| **ovrlpy** | Detection of cell overlap and vertical signal integrity in imaging-based SRT | Nature Biotechnology 2026 |
-| **colormapy** | Modular multimodal quality control for imaging-based SRT | [link] |
+| Tool | Description | Code | Publication |
+|---|---|---|---|
+| **SSAM** | Segmentation-free cell-type mapping for imaging-based spatial transcriptomics | <a href="https://github.com/HiDiHlabs/ssam"><img width="25" height="25" alt="github" src="https://github.com/user-attachments/assets/5a0440cf-7136-4a8c-b510-88b9c1be5823"/></a> | [Park et al. Nature Commununications (2021)](https://doi.org/10.1038/s41467-021-23807-4) |
+| **SSAM-lite** | Light weight SSAM implementation that can run in the browser | <a href="https://github.com/HiDiHlabs/ssam-lite"><img width="25" height="25" alt="github" src="https://github.com/user-attachments/assets/5a0440cf-7136-4a8c-b510-88b9c1be5823"></a>| [Tiesmeyer et al. Frontiers in Genetics (2022)](https://doi.org/10.3389/fgene.2022.785877) |
+| **Sainsc** | Segmentation-free spatial analysis at scale for sequenincing and imagined-based spatial transcriptomics | <a href="https://github.com/HiDiHlabs/sainsc"><img width="25" height="25" alt="github" src="https://github.com/user-attachments/assets/5a0440cf-7136-4a8c-b510-88b9c1be5823" /></a> | [Müller-Bötticher et al. Small Methods (2025)](https://doi.org/10.1002/smtd.202401123) |
+| **SpatialLeiden** | Spatially-aware clustering via multiplex modularity optimisation | <a  href="https://github.com/HiDiHlabs/SpatialLeiden"><img width="25" height="25" alt="github" src="https://github.com/user-attachments/assets/5a0440cf-7136-4a8c-b510-88b9c1be5823"/></a> | [Müller-Bötticher et al. Genome Biology (2025)](https://doi.org/10.1186/s13059-025-03489-7) |
+| **MULTI spaete** | Dimensionality reduction approach that maximises the product of variance and Moran’s I | <a href="https://github.com/HiDiHlabs/multiSPAETI"><img width="25" height="25" alt="github" src="https://github.com/user-attachments/assets/5a0440cf-7136-4a8c-b510-88b9c1be5823" /> | [Müller-Bötticher et al. Genome Biology (2025)](https://doi.org/10.1186/s13059-025-03489-7) |
+| **ovrlpy** | Detection of cell overlap and vertical signal integrity in imaging-based SRT | <a href="https://github.com/HiDiHlabs/ovrl.py"><img width="25" height="25" alt="github" src="https://github.com/user-attachments/assets/5a0440cf-7136-4a8c-b510-88b9c1be5823" /></a> | [Tiesmeyer et al. Nature Biotechnology (2026)](https://doi.org/10.1038/s41587-026-03004-8) |
+| **clrmappy** | A tool to automatically color high dimensional data using dimensionality reduction | <a href="https://github.com/HiDiHlabs/clrmappy"><img width="25" height="25" alt="github" src="https://github.com/user-attachments/assets/5a0440cf-7136-4a8c-b510-88b9c1be5823" /> |  |
+| **SACCELERATOR** | A framework to run and compare spatial clustering tools | <a href="https://github.com/SpatialHackathon/SACCELERATOR"><img width="25" height="25" alt="github" src="https://github.com/user-attachments/assets/5a0440cf-7136-4a8c-b510-88b9c1be5823" /></a> | [Sun et al. Nature Methods (2026)](https://doi.org/10.1038/s41592-026-03194-8) |
 
 <!-- TODO: replace [link] placeholders with DOIs; add repo links once transferred to IshaqueLab -->
 
@@ -50,8 +51,5 @@ Contact: [naveed.ishaque@bih-charite.de](mailto:naveed.ishaque@bih-charite.de)
 
 BIH Rahel Hirsch Center, Luisenstraße 65, 10115 Berlin, Germany (Charité Campus Mitte, 6th floor). Visitor information is on the [lab website](https://ishaquelab.github.io).
 
-## Lab members
-
-<img width="100%" alt="IshaqueLab group members" src="https://github.com/user-attachments/assets/f463ef93-42e0-4b6f-8c66-a7eeca5fd757" />
 
 <!-- Consider adding a members table here, or keep it on the website only so it is maintained in one place -->
