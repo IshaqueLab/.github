@@ -11,13 +11,13 @@
 
 # Ishaque Lab
 
-Computational methods for spatial and single-cell 'omics and imaging in human diseases.
+Computational methods for spatial and single-cell 'omics in human disease.
 
 We are the research group of [Naveed Ishaque](https://orcid.org/0000-0002-8426-901X), Professor of Cancer Bioinformatics at [Center of Digital Health](https://www.bihealth.org), [BIH](https://www.bihealth.org) at [Charité - Universitätsmedizin Berlin](https://www.charite.de).
 
 ## What we do
 
-We study biological heterogeneity in disease using computational approaches applied to 'omics and imaging data. Our focus is oncology, with active interests in immunology and neurodegeneration.
+We study biological heterogeneity in disease using computational approaches applied to 'omics and imaging data. Our focus is oncology, with active interests in immunology, neurodegeneration and metabolic disease.
 
 - **Spatially resolved transcriptomics**: segmentation-free analysis, cell-type mapping, spatially-aware clustering, quality control and benchmarking of imaging-based SRT.
 - **Single-cell and multi-omics integration**: linking molecular layers to resolve tumour and microenvironment heterogeneity.
