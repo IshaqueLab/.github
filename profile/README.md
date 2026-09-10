@@ -28,6 +28,8 @@ We work closely with experimental and clinical collaborators who generate large-
 
 ## Software
 
+These software are an approved de.NBI service (the [SpatialTanscriptomicsToolbox](https://www.surveymonkey.de/r/denbi-service?sc=hd-hub&tool=spatialtranscriptomicstoolbox)). [Please help us improve by taking our short user survey](https://www.surveymonkey.de/r/denbi-service?sc=hd-hub&tool=spatialtranscriptomicstoolbox).
+
 | Tool | Description | Code | Publication |
 |---|---|---|---|
 | **SSAM** | Segmentation-free cell-type mapping for imaging-based spatial transcriptomics | <a href="https://github.com/HiDiHlabs/ssam"><img width="25" height="25" alt="github" src="https://github.com/user-attachments/assets/5a0440cf-7136-4a8c-b510-88b9c1be5823"/></a> | [Park et al. Nature Communications (2021)](https://doi.org/10.1038/s41467-021-23807-4) |
@@ -39,7 +41,7 @@ We work closely with experimental and clinical collaborators who generate large-
 | **clrmappy** | A tool to automatically color high dimensional data using dimensionality reduction | <a href="https://github.com/HiDiHlabs/clrmappy"><img width="25" height="25" alt="github" src="https://github.com/user-attachments/assets/5a0440cf-7136-4a8c-b510-88b9c1be5823" /></a> |  |
 | **SACCELERATOR** | A framework to run and compare spatial clustering tools | <a href="https://github.com/SpatialHackathon/SACCELERATOR"><img width="25" height="25" alt="github" src="https://github.com/user-attachments/assets/5a0440cf-7136-4a8c-b510-88b9c1be5823" /></a> | [Sun et al. Nature Methods (2026)](https://doi.org/10.1038/s41592-026-03194-8) |
 
-<!-- TODO: replace [link] placeholders with DOIs; add repo links once transferred to IshaqueLab -->
+These software are an approved de.NBI service (the [SpatialTanscriptomicsToolbox](https://www.surveymonkey.de/r/denbi-service?sc=hd-hub&tool=spatialtranscriptomicstoolbox)). [Please help us improve by taking our short user survey](https://www.surveymonkey.de/r/denbi-service?sc=hd-hub&tool=spatialtranscriptomicstoolbox).
 
 ## Join us
 
