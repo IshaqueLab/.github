@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e08602b4-b3cd-4f9e-9472-798bafe9e52c" alt="IshaqueLab Logo" width="640">
+  <img src="https://github.com/user-attachments/assets/49d8811d-fd06-4f6b-8eb4-8049bb2837da" alt="IshaqueLab Logo" width="640">
 </p>
 
 <p align="center">
@@ -53,5 +53,15 @@ Contact: [naveed.ishaque@bih-charite.de](mailto:naveed.ishaque@bih-charite.de)
 
 BIH Rahel Hirsch Center, Luisenstraße 65, 10115 Berlin, Germany (Charité Campus Mitte, 6th floor). Visitor information is on the [lab website](https://ishaquelab.github.io).
 
+---
 
-<!-- Consider adding a members table here, or keep it on the website only so it is maintained in one place -->
+<p align="center">
+    <a href="https://www.bihealth.org/"><img height="40" hspace="18" alt="Berlin Institute of Health at Charité" src="https://github.com/user-attachments/assets/4512d491-1808-4eb7-ae7d-551565886e38"></a>
+  <a href="https://www.charite.de/en/"><img height="40" hspace="18" alt="Charité - Universitätsmedizin Berlin" src="https://github.com/user-attachments/assets/a16fc96e-77fb-4fe9-95d7-0eb9c20fbed3"></a>
+  <a href="https://www.hidih.org/"><img height="40" hspace="18" alt="HiDiH" src="https://github.com/user-attachments/assets/167a4757-3ac4-4689-9647-b75bd47a2da6"></a>
+  <a href="https://www.denbi.de/"><img height="40" hspace="18" alt="de.NBI" src="https://github.com/user-attachments/assets/eddbfb6d-c225-4d24-a4f4-51ec3be55d08"></a>
+  <a href="https://elixir-europe.org/about-us/who-we-are/nodes/germany"><img height="55" hspace="18" alt="ELIXIR Germany" src="https://github.com/user-attachments/assets/f1b20fde-5939-407b-9fe1-11ea75e6d842"></a>
+</p>
+
+
+
