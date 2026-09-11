@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="[https://ishaquelab.github.io](https://github.com/ishaquelab)"><img src="https://github.com/user-attachments/assets/49d8811d-fd06-4f6b-8eb4-8049bb2837da" alt="IshaqueLab" width="640"></a>a
+  <a href="https://github.com/ishaquelab"><img src="https://github.com/user-attachments/assets/49d8811d-fd06-4f6b-8eb4-8049bb2837da" alt="IshaqueLab" width="640"></a>a
 </p>
 
 <p align="center">
